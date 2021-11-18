@@ -1,0 +1,12 @@
+body {
+    background-color: rgba(211, 211, 211, 0.4);
+    font-family:Arial, Helvetica, sans-serif;
+}
+h1  {
+    font-style: italic;
+    color: gray;
+}
+img {
+    height: 200px;
+    width: 200px;
+}
